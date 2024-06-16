@@ -8,7 +8,7 @@ Whether you're organizing your day, getting ready for a trip, or just keeping in
 
 With its intuitive interface and precise data from reliable weather APIs, you can count on WeatherApp for accurate weather information whenever you need it.
 
-# Table of Contents
+## Table of Contents
 
 - Features 🌟
 - Technologies Used 🛠️
