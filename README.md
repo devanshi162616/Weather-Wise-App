@@ -16,7 +16,7 @@ With its intuitive interface and precise data from reliable weather APIs, you ca
 
 
 
-## Features
+## Features 🌟
 - Location-based Weather: When you access the website, the app will request your location to deliver weather details tailored to your area.
 
 - City Search: You also have the option to search for weather information by typing in the name of a city.
