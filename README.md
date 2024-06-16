@@ -10,12 +10,12 @@ With its intuitive interface and precise data from reliable weather APIs, you ca
 
 # Table of Contents
 
-Features 🌟
-Technologies Used 🛠️
-Getting Started 🚀
-Usage 📋
-Contributing 🤝
-License
+- Features 🌟
+- Technologies Used 🛠️
+- Getting Started 🚀
+- Usage 📋
+- Contributing 🤝
+- License
 
 
 ## Features 🌟
